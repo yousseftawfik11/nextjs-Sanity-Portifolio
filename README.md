@@ -1,3 +1,11 @@
+![image](https://user-images.githubusercontent.com/67921054/236687581-1af977ff-72df-4cd1-a5f9-48e6bc57de01.png)
+![image](https://user-images.githubusercontent.com/67921054/236687598-a20d6425-bc58-427c-af26-6a0c6ce0c218.png)
+![image](https://user-images.githubusercontent.com/67921054/236687614-c2123173-cca6-4f40-b265-e3c920ea6c77.png)
+![image](https://user-images.githubusercontent.com/67921054/236687620-269d15aa-1eed-4844-8e34-2c8e913059a3.png)
+![image](https://user-images.githubusercontent.com/67921054/236687651-fe6b0d1a-f03a-43ef-968e-c7e861676c17.png)
+
+The project uses framer motion for the animations and transitions. Sanity was used as a CMS to ease content entry and deletion for any non techincal user.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
